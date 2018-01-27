@@ -1,7 +1,7 @@
-# odds-chess
-Difficulty-adjusted chess where the odds of winning are always 50%
+# Welcome
+Odds Chess is a difficulty-adjusted chess where the odds of winning are always 50%
 
-Odds Chess is a chess app where your chances of winning are always 50%.
+It is chess app where your chances of winning are always 50%.
 It automatically adjusts the time allotted to you over repeated games.
 The more you win, the less time you get to play.
 Material handicap is also possible.
